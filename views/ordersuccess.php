@@ -1,0 +1,1 @@
+<section>Bạn đã đặt hàng thành công!<br>Chúng tôi sẽ liên hệ sớm đến bạn<br>Xin cảm ơn</section>
